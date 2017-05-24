@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/E18B/production/_96093775_chart_votesearch_birmingham-1.png)
 
-In May 2017 Dan Wainwright [reported on which election-related searches were most popular in different parts of the country](http://www.bbc.co.uk/news/election-2017-39938599).
+In May 2017 Dan Wainwright [reported on which election-related searches were most popular in different parts of the country](http://www.bbc.co.uk/news/election-2017-39938599). We approached Google for the data on search patterns.
 
 ## Get the data
 
