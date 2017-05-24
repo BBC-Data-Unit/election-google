@@ -20,3 +20,4 @@ In May 2017 Dan Wainwright [reported on which election-related searches were mos
 ## Related repos
 
 * April 2017: [How non-voters can change the outcome of an election](https://github.com/BBC-Data-Unit/non-voters)
+* May 2017: [Election 2017: Places with the lowest voter registration](https://github.com/BBC-Data-Unit/election17-voter-registration)
