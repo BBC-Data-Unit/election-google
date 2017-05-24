@@ -14,3 +14,7 @@ In May 2017 Dan Wainwright [reported on which election-related searches were mos
 * Bar chart: "Who should I vote for?" Search interest by area (top 10)
 * Search widget: Find your constituency and candidates
 * Bar chart: "Register to vote" Search interest by area (top 10)
+
+## Related repos
+
+* April 2017: [How non-voters can change the outcome of an election](https://github.com/BBC-Data-Unit/non-voters)
